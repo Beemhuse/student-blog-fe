@@ -1,0 +1,1 @@
+export const baseUrl = "https://student-blog-be.onrender.com"
